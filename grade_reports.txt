@@ -1,0 +1,14 @@
+Student ID: 101
+Student name=Jayxunbey
+Course Name=Informatika
+Total Exam Scores=162
+Total Assignment Scores=81
+Final Grade=85
+
+Student ID: 108
+Student name=Jalol
+Course Name=Computer
+Total Exam Scores=390
+Total Assignment Scores=195
+Final Grade=85
+
